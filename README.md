@@ -1,3 +1,4 @@
+![](vilnius.jpg)
 
 # Other resources being mentioned or demoed -
 
