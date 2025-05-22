@@ -1,4 +1,4 @@
-# Azure AI Demo Days in Vilnius
+# Azure AI Demo Days 
 
 ![](vilnius.jpg)
 
