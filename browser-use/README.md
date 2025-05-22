@@ -17,7 +17,7 @@ https://github.com/browser-use/browser-use
    pip install -r requirements.txt
    ```
 
-We highly recommend `uv` instead of pip, for it's speed and ease of use - https://docs.astral.sh/uv/
+We highly recommend `uv` instead of pip, for its speed and ease of use - https://docs.astral.sh/uv/
 
 Example use for this project:
 ```bash
